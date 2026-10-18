@@ -1,0 +1,17 @@
+{
+  "name": "amandasever",
+  "main": "worker.js",
+  "compatibility_date": "2026-10-12",
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS",
+    "run_worker_first": ["/api/*"]
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "amanda-leads",
+      "database_id": "d6b8d298-d0b0-4531-8f8e-fa9ba3b76fe6"
+    }
+  ]
+}
