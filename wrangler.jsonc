@@ -8,7 +8,7 @@
     "run_worker_first": ["/api/*", "/", "/index.html"]
   },
   "vars": {
-    "TURNSTILE_SITEKEY": "В0x4AAAAAAFZso7Wlc0IT65ym"
+    "TURNSTILE_SITEKEY": "0x4AAAAAAFZso7Wlc0IT65ym"
   },
   "d1_databases": [
     {
