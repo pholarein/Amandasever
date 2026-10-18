@@ -8,7 +8,9 @@
     "run_worker_first": ["/api/*", "/", "/index.html"]
   },
   "vars": {
-    "TURNSTILE_SITEKEY": "0x4AAAAAAFZso7Wlc0IT65ym"
+    "TURNSTILE_SITEKEY": "0x4AAAAAAFZso7Wlc0IT65ym",
+    "ALLOWED_ORIGINS": "https://amandasever.ru,https://www.amandasever.ru,https://amandasever.kabanvovan37.workers.dev",
+    "TG_ADMIN_IDS": "1348676194"
   },
   "d1_databases": [
     {
